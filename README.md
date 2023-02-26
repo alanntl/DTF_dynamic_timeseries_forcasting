@@ -1,4 +1,4 @@
-# IAQ_dynamic_analytics
+# dynamic_analytics
 
 1. Run "create_train_datasets.ipynb" to get the data for ML model training
 2. Run all the model notebooks in "model_generator folder". The new models will be saved in "saved_model folder".
